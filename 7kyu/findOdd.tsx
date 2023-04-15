@@ -10,4 +10,3 @@ function findOdd(A: number[]) {
 }
 
 console.log(findOdd([7, 1, 1, 3]));
-console.log(findOdd([7]));
